@@ -1,7 +1,7 @@
 ## Olá! eu sou o Cadu ✋
 ### Estudo programação para se tornar um Desenvolvedor FullStack na escola DNC.
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carloseduardofurlan78@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://carloseduardofurlan78@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-furlan-8ba21b129/)
 [![Email](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ducalanfur/)
 <br>
