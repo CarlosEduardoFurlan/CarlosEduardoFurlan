@@ -1,5 +1,5 @@
-## Olá! eu sou o Cadu ✋
-### Estudo programação para se tornar um Desenvolvedor FullStack na escola DNC.
+## Olá! eu sou o Carlos ✋
+### Estudo programação para se tornar um Desenvolvedor FullStack no IFMS.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-furlan-8ba21b129/)
 [![Email](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ducalanfur/)
